@@ -10,7 +10,7 @@ require 'nokogiri'
 require 'pp'
 require 'csv'
 
-USAGE="USAGE: ruby html_table_to_csv.rb [input_filepath] [output_csv_filepath]"
+USAGE="USAGE: ruby html_table_to_csv.rb [input_html_filepath] [output_csv_filepath]"
 OUTPUT_FILE_EXISTS="Output File '%s' already exists! Please specify nonexisting file."
 
 #Argument Parsing
