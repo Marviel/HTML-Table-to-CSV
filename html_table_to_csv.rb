@@ -4,7 +4,6 @@
 #Organization:     independent work    
 #Description: Given an html file containing a table with id="targeted_table",
 #   Converts the table to a new .csv file.
-#   WARNING: WILL OVERWRITE FILE 
 
 require 'nokogiri'
 require 'pp'
